@@ -1,0 +1,35 @@
+
+.apple
+{
+  width:550px;
+  height: 750px;
+  top: -10px;
+  position: fixed;
+
+}
+.apple1{
+  color: black;
+  margin-left: 550px;
+}
+.apple2{
+  color: black;
+  margin-left: 550px;
+  margin-right: 50px;
+}
+.apple3{
+  color: black;
+  margin-left: 550px;
+}
+.apple4{
+  color: black;
+  margin-left: 550px;
+  
+}
+.apple8{
+  color: black;
+  margin-left: 550px;
+}
+
+.apple10{
+  margin-left: 550px;
+}

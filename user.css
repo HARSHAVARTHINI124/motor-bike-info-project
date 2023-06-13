@@ -1,0 +1,88 @@
+.bodylgn1{
+    background-image: url("./assets/b1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+  
+}
+
+.bodylgn {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerlgn {
+  padding: 20px;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+
+.containerlgn .inputlgn input {
+  background-color: #dedede;
+  margin-top: 6px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  border: none;
+  width: 280px;
+  height: 38px;
+  padding-left: 15px;
+  font-size: large;
+  font-weight: 400;
+}
+
+.lgn-font {
+  font-weight: 600;
+  font-size: x-large;
+}
+
+.containerlgn .inputlgn {
+  margin-top: 20px;
+  font-weight: 450;
+  font-size: large;
+}
+
+.sgn-txt1 .sgn-txt2 {
+  font-weight: 410;
+  font-size: medium;
+}
+
+.fpwd-txt {
+  margin-left: 115px;
+  margin-bottom: 25px;
+}
+
+.font1 {
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: large;
+}
+
+.font1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: tomato;
+}
+
+.btnlgn button {
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.btnlgn button:hover {
+  color: black;
+  background-color: white;
+}
